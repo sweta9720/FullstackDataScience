@@ -12,3 +12,4 @@ git push origin branch_name
 ..
 git pull origin branch_name
 ..
+bash file_name.sh
