@@ -1,15 +1,35 @@
-This a end to end project.
+# this is my end to end project
 
-#first initialize git
-..
+# first initialize the git
+
+```
 git init
-..
+```
+
+```
+git add abc.txt
 git add .
-..
-git commit -m "message"
-..
-git push origin branch_name
-..
-git pull origin branch_name
-..
-bash file_name.sh
+```
+```
+git commit -m "this is my first commit"
+```
+
+```
+
+git pull
+
+```
+
+```
+bash your_file_name.sh
+```
+
+```
+python setup.py install
+```
+
+# another way you can mention -e . in your requirement file and you can run
+
+```
+pip install -r requirements.txt
+```
